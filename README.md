@@ -3,9 +3,16 @@ All my writeups will be posted on this repo free for everyone too see my progres
 
 ## JOINTS UGM CTF 2026
 
+Played with team **Otniellovevoli**, finished 8th overall.
+
 | Challenge | Category |
 |---|---|
 | [Filtereous](JOINTS-UGM-2026/web/Filtereous/) | web · file upload bypass |
+| [Key Item Get](JOINTS-UGM-2026/forensics/Key-Item-Get/) | forensics · audio FSK, Hamming(7,4) |
+| [burjo](JOINTS-UGM-2026/pwn/burjo/) | pwn · callback overwrite, PIE brute force |
+| [quokka](JOINTS-UGM-2026/pwn/quokka/) | pwn · VM heap overflow, GOT hijack |
+| [ByteLock](JOINTS-UGM-2026/rev/ByteLock/) | rev · V8 bytecode, Ghidra |
+| [MEVBot](JOINTS-UGM-2026/rev/MEVBot/) *(flag only)* | rev · EVM |
 
 ## TryHackMe
 
