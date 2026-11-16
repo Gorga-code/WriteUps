@@ -14,6 +14,18 @@ Played with team **Otniellovevoli**, finished 8th overall.
 | [ByteLock](JOINTS-UGM-2026/rev/ByteLock/) | rev · V8 bytecode, Ghidra |
 | [MEVBot](JOINTS-UGM-2026/rev/MEVBot/) *(flag only)* | rev · EVM |
 
+## NETLAB CTF
+
+| Challenge | Category |
+|---|---|
+| [Snivy Field Archive](NETLAB/web/Snivy-Field-Archive/) | web · HTML source, hex decoding |
+| [Who Wore the Mask?](NETLAB/forensics/Who-Wore-the-Mask/) | forensics · LSB stego, audio tones, ChaCha20 |
+| [Bound to the Line](NETLAB/forensics/Bound-to-the-Line/) | forensics · stereo diff, spectrogram |
+| [Janus Lattice: Split Verdict](NETLAB/forensics/Janus-Lattice-Split-Verdict/) | forensics · pcap, DNS TXT, GF(256) parity |
+| [Zion: The Last Cache](NETLAB/forensics/Zion-The-Last-Cache/) | forensics · LSB stego, scrypt, AES-GCM |
+| [Who Am I?](NETLAB/misc/Who-Am-I/) | misc · SQL, Unity asset strings |
+| [Jalan-jalan, Research Edition](NETLAB/osint/Jalan-Jalan-Research-Edition/) | osint · geolocation |
+
 ## TryHackMe
 
 | Room | Category |
