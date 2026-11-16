@@ -22,8 +22,6 @@ So i went to Hsinchu city and found it.
 
 ![image](./images/rJcRrrPCGx.png)
 
-*i tried to show my gmaps screenshot but fuckass hackmd wont let me cause apparently its above 1MB
-
 latitude : 24.775514
 longitude : 121.004191
 

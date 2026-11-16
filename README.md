@@ -22,9 +22,11 @@ Played with team **Otniellovevoli**, finished 8th overall.
 | [Who Wore the Mask?](NETLAB/forensics/Who-Wore-the-Mask/) | forensics · LSB stego, audio tones, ChaCha20 |
 | [Bound to the Line](NETLAB/forensics/Bound-to-the-Line/) | forensics · stereo diff, spectrogram |
 | [Janus Lattice: Split Verdict](NETLAB/forensics/Janus-Lattice-Split-Verdict/) | forensics · pcap, DNS TXT, GF(256) parity |
+| [Skynet: Fractured Timeline](NETLAB/forensics/Skynet-Fractured-Timeline/) | forensics · pcap, DNS TXT, decoy packets |
 | [Zion: The Last Cache](NETLAB/forensics/Zion-The-Last-Cache/) | forensics · LSB stego, scrypt, AES-GCM |
 | [Who Am I?](NETLAB/misc/Who-Am-I/) | misc · SQL, Unity asset strings |
 | [Jalan-jalan, Research Edition](NETLAB/osint/Jalan-Jalan-Research-Edition/) | osint · geolocation |
+| [Ancestors](NETLAB/osint/Ancestors/) | osint · people search |
 
 ## TryHackMe
 
